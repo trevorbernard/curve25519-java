@@ -5,6 +5,8 @@
  * Written by Matthijs van Duin, 200608242056
  * Public domain.
  */
+package djb;
+
 import djb.Curve25519;
 
 public class Bench {
