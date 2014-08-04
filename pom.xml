@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.zeromq</groupId>
   <artifactId>curve25519-java</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
   <name>curve25519-java</name>
   <description>Java port of Matthijs van Duin's implementation of Daniel J Bernstein's Curve25519.</description>
   <url>https://github.com/trevorbernard/curve25519-java</url>
